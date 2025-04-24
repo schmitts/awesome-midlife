@@ -12,3 +12,7 @@ An awesome list for everything midlife.
 ## Articles
 
 - [Why middle-aged people have a duty to be self-centered](https://www.theguardian.com/wellness/2025/feb/04/middle-age-midlife-carl-jung) by [Angela Garbes](https://www.angelagarbes.com/)
+
+## Talks
+
+- [Life begins at 40: the biological and cultural roots of the midlife crisis | The Royal Society](https://www.youtube.com/watch?v=eSWwIQzKsbY) by [Mark Jackson](https://wcceh.org/meet-the-team/directors/professor-mark-jackson/)
